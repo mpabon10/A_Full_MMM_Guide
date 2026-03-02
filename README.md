@@ -1,6 +1,6 @@
 # Marketing Mix Modeling (MMM): A Complete Guide
 
-A self-contained Jupyter notebook covering Marketing Mix Modeling from theory to production-ready implementation, designed for data scientists.
+A self-contained Jupyter notebook covering Marketing Mix Modeling from theory to implementation, designed for data scientists.
 
 ## What's Covered
 
