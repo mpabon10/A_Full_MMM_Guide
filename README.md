@@ -22,7 +22,7 @@ Estimated study time: 4–6 hours.
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/mpabon10/A_Full_MMM_Guide.git
 cd mmm-complete-guide
 
 # 2. Create and activate a virtual environment
