@@ -48,15 +48,4 @@ jupyter notebook MMM_Complete_Guide.ipynb
 
 See [requirements.txt](requirements.txt) for pinned versions.
 
-## File Structure
 
-```
-.
-├── MMM_Complete_Guide.ipynb   # Main study notebook
-├── requirements.txt           # Python dependencies
-└── README.md
-```
-
-## License
-
-MIT
