@@ -26,3 +26,4 @@ ipykernel>=6.25.0
 
 # Utilities
 tqdm>=4.66.0
+networkx
